@@ -1,6 +1,7 @@
 # Print number from 1 to 100
  
 """count = 1
+count = 1
 while count <= 100 :
   print(count) 
   count +=1
@@ -42,6 +43,7 @@ while i <len(element) :
     if(element[i] == x) :
       print("Found" , i) 
     i +=1"""
+    i +=1
 
 # Write a program to find the sum of first n number 
 
